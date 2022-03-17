@@ -116,6 +116,5 @@ Git用以计算校验和的机制叫做 SHA-1 散列（hash，哈希）， 这�
 ### git 常见面试题
 
 ### 参考
-参考：
 - https://git-scm.com/book/zh/v2/
 - https://www.ruanyifeng.com/blog/2014/06/git_remote.html
