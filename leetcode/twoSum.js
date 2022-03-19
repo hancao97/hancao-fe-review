@@ -17,5 +17,3 @@ var twoSum = function(nums, target) {
   }
   return [];
 };
-
-console.log(twoSum([2,11,7,15], 9))
